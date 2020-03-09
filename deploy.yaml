@@ -1,0 +1,7 @@
+---
+- name: Create VMs
+  hosts: localhost
+  gather_facts: no
+  connection: local
+  roles:
+    - vmware
