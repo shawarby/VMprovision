@@ -1,7 +1,7 @@
-VMWARE_HOST: "vcenter.lab.local"
-VM_DATACENTER: "SiteA"
-VM_CLUSTER: "ClusterA"
-VM_TEMPLATE: "vcsa"
+VMWARE_HOST: vcenter.lab.local
+VM_DATACENTER: SiteA
+VM_CLUSTER: ClusterA
+VM_TEMPLATE: vcsa
 VM_DATASTORE: "datastore1"
 VM_NAME: "test"
 VM_MEMORY: "4"
